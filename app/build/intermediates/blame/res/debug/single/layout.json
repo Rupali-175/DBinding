@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\rupali_s\\Desktop\\mydata\\Doc\\ViewModelWithLivedata\\DBinding\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\rupali_s\\Desktop\\mydata\\Doc\\ViewModelWithLivedata\\DBinding\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupali_s\\Desktop\\mydata\\Doc\\ViewModelWithLivedata\\DBinding\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\second_layout.xml",
+        "source": "C:\\Users\\rupali_s\\Desktop\\mydata\\Doc\\ViewModelWithLivedata\\DBinding\\app\\src\\main\\res\\layout\\second_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupali_s\\Desktop\\mydata\\Doc\\ViewModelWithLivedata\\DBinding\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_row.xml",
+        "source": "C:\\Users\\rupali_s\\Desktop\\mydata\\Doc\\ViewModelWithLivedata\\DBinding\\app\\src\\main\\res\\layout\\item_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupali_s\\Desktop\\mydata\\Doc\\ViewModelWithLivedata\\DBinding\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_kt.xml",
+        "source": "C:\\Users\\rupali_s\\Desktop\\mydata\\Doc\\ViewModelWithLivedata\\DBinding\\app\\src\\main\\res\\layout\\activity_main_kt.xml"
+    },
+    {
+        "merged": "C:\\Users\\rupali_s\\Desktop\\mydata\\Doc\\ViewModelWithLivedata\\DBinding\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\first_layout.xml",
+        "source": "C:\\Users\\rupali_s\\Desktop\\mydata\\Doc\\ViewModelWithLivedata\\DBinding\\app\\src\\main\\res\\layout\\first_layout.xml"
+    }
+]
